@@ -81,4 +81,8 @@ mediapipe
 autopy
 numpy
 
+# Screenshots :
+
+https://github.com/gbyGaurav/Virtual-AI-Mouse/blob/5ba7679ffceeae27237afb75279514108b908e60/Screenshot%202025-06-26%20172101.png
+
 
